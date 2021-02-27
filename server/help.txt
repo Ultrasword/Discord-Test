@@ -1,0 +1,11 @@
+`verify` - Used to verify and start the game
+`shop` -  Used to display the shop!
+`hunt` - Used to hunt monsters!
+`status` - Used to check your health and status
+`description` - Used to change the description for your status and profile
+`profile` - Used to display armor and other stats
+`buy` - Used to buy items from the shop
+`heal` - Used to replenish your health. Make sure to have a stable amount of health_potions!
+`adventure` - Used to go adventure!
+Adventuring is very dangerous and can result in your death!
+The drops are good and there is more money and XP to be found!

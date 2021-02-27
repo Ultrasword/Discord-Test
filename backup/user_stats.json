@@ -1,0 +1,78 @@
+{
+  "343889571060383744": {
+    "DMG": 13,
+    "HP": 226,
+    "MAXHP": 70880.18749850911,
+    "MAXXP": 56.520663127256356,
+    "XP": 126,
+    "armor": 5,
+    "description": "\ud83c\udf3a The Hibiscus is such a beautiful flower \ud83c\udf3a",
+    "level": 31,
+    "money": 199,
+    "rank": "Silver",
+    "using": {
+      "boots": "None",
+      "chest": "leather_chestplate",
+      "head": "None",
+      "pants": "None",
+      "weapon": "mana_staff"
+    }
+  },
+  "384831489642332160": {
+    "DMG": 13,
+    "HP": 2607.5,
+    "MAXHP": 253976.5269450578,
+    "MAXXP": 1052,
+    "XP": 246,
+    "armor": 5,
+    "description": "Gonna be the next Luvonox, 1k before 2022!!",
+    "level": 31,
+    "money": 250,
+    "rank": "Bronze",
+    "using": {
+      "boots": "None",
+      "chest": "leather_chestplate",
+      "head": "None",
+      "pants": "None",
+      "weapon": "mana_staff"
+    }
+  },
+  "575023869187063809": {
+    "DMG": 3,
+    "HP": 100,
+    "MAXHP": 100,
+    "MAXXP": 100,
+    "XP": 0,
+    "armor": 0,
+    "description": "An aspiring adventurer!",
+    "level": 1,
+    "money": 0,
+    "rank": "Clay",
+    "using": {
+      "boots": "None",
+      "chest": "None",
+      "head": "None",
+      "pants": "None",
+      "weapon": "None"
+    }
+  },
+  "710608774699679764": {
+    "DMG": 3,
+    "HP": 91,
+    "MAXHP": 100,
+    "MAXXP": 100,
+    "XP": 7,
+    "armor": 0,
+    "description": "Change the command word to qwe",
+    "level": 1,
+    "money": 5,
+    "rank": "Clay",
+    "using": {
+      "boots": "None",
+      "chest": "None",
+      "head": "None",
+      "pants": "None",
+      "weapon": "None"
+    }
+  }
+}

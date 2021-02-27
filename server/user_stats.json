@@ -1,0 +1,97 @@
+{
+  "343889571060383744": {
+    "DMG": 13,
+    "HP": 214983,
+    "MAXHP": 4695626.196097222,
+    "MAXXP": 4898,
+    "XP": 2076,
+    "armor": 10000,
+    "description": "\ud83c\udf3a The Hibiscus is such a beautiful flower \ud83c\udf3a",
+    "level": 49,
+    "money": 497,
+    "rank": "Silver",
+    "using": {
+      "boots": "leather_boots",
+      "chest": "mythril_chestplate",
+      "head": "None",
+      "pants": "None",
+      "weapon": "mana_staff"
+    }
+  },
+  "384831489642332160": {
+    "DMG": 13,
+    "HP": 3038933.5,
+    "MAXHP": 104177684.3176264,
+    "MAXXP": 18702,
+    "XP": 9211,
+    "armor": 10000,
+    "description": "Gonna be the next Luvonox, 1k before 2022!!",
+    "level": 60,
+    "money": 3125,
+    "rank": "Iron",
+    "using": {
+      "boots": "leather_boots",
+      "chest": "mythril_chestplate",
+      "head": "None",
+      "pants": "None",
+      "weapon": "mana_staff"
+    }
+  },
+  "529773809130143746": {
+    "DMG": 3,
+    "HP": 84,
+    "MAXHP": 100,
+    "MAXXP": 100,
+    "XP": 23,
+    "armor": 0,
+    "description": "An aspiring adventurer!",
+    "level": 1,
+    "money": 30,
+    "rank": "Clay",
+    "using": {
+      "boots": "None",
+      "chest": "None",
+      "head": "None",
+      "pants": "None",
+      "weapon": "None"
+    }
+  },
+  "575023869187063809": {
+    "DMG": 3,
+    "HP": 100,
+    "MAXHP": 100,
+    "MAXXP": 100,
+    "XP": 0,
+    "armor": 0,
+    "description": "An aspiring adventurer!",
+    "level": 1,
+    "money": 0,
+    "rank": "Clay",
+    "using": {
+      "boots": "None",
+      "chest": "None",
+      "head": "None",
+      "pants": "None",
+      "weapon": "None"
+    }
+  },
+  "710608774699679764": {
+    "DMG": 3,
+    "HP": 91,
+    "MAXHP": 100,
+    "MAXXP": 100,
+    "XP": 7,
+    "armor": 0,
+    "description": "Change the command word to qwe",
+    "level": 1,
+    "money": 5,
+    "rank": "Clay",
+    "using": {
+      "boots": "None",
+      "chest": "None",
+      "head": "None",
+      "pants": "None",
+      "weapon": "None"
+    }
+  }
+}

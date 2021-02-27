@@ -1,0 +1,44 @@
+{
+  "343889571060383744": {
+    "ether_crystal": 10,
+    "fire_core": 5,
+    "fire_essence": 4,
+    "ghost_core": 2,
+    "iron_chestplate": 1,
+    "leather_chestplate": 1,
+    "nature_core": 7,
+    "nature_essence": 11,
+    "plain_cloth": 3,
+    "spirit_essence": 19,
+    "super_duper_health_potion": 128,
+    "water_core": 10,
+    "water_essence": 3
+  },
+  "384831489642332160": {
+    "crested_longbranch": 28,
+    "crested_root": 27,
+    "ether_crystal": 80,
+    "fire_core": 50,
+    "fire_essence": 67,
+    "ghost_core": 54,
+    "leather_chestplate": 1,
+    "nature_core": 64,
+    "nature_essence": 57,
+    "plain_cloth": 66,
+    "pure_vine": 9,
+    "spirit_essence": 423,
+    "super_duper_health_potion": 0,
+    "volcanic_ash": 4,
+    "wand": 1,
+    "water_core": 75,
+    "water_essence": 45,
+    "wooden_sword": 1
+  },
+  "529773809130143746": {
+    "crested_branch": 3,
+    "rusty_dagger": 3
+  },
+  "710608774699679764": {
+    "crested_branch": 1
+  }
+}

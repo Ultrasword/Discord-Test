@@ -1,0 +1,46 @@
+{
+  "343889571060383744": {
+    "armband": 6,
+    "bandana": 55,
+    "broken_bone": 46,
+    "creaky_bone": 2,
+    "crested_branch": 54,
+    "crested_longbranch": 7,
+    "crested_root": 10,
+    "dried_root": 61,
+    "dusty_bow": 11,
+    "figurine": 5,
+    "fire_core": 3,
+    "health_potion": 165,
+    "meat": 48,
+    "mega_health_potion": 2,
+    "nature_core": 1,
+    "rat_core": 10,
+    "rat_tail": 61,
+    "rotten_flesh": 21,
+    "rusty_dagger": 45,
+    "super_health_potion": 21,
+    "tusk": 51,
+    "zombie_arm": 6,
+    "zombie_brain": 4,
+    "zombie_eye": 67
+  },
+  "384831489642332160": {
+    "bandana": 83,
+    "broken_bone": 60,
+    "crested_branch": 82,
+    "dried_root": 88,
+    "health_potion": 94,
+    "meat": 77,
+    "rat_tail": 68,
+    "rotten_flesh": 80,
+    "rusty_dagger": 84,
+    "super_health_potion": 1,
+    "tusk": 87,
+    "wooden_sword": 1,
+    "zombie_eye": 112
+  },
+  "710608774699679764": {
+    "crested_branch": 1
+  }
+}
