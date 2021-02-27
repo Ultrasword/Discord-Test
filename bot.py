@@ -881,4 +881,4 @@ async def sell(ctx, item, amount=1):
         embed.set_footer(text=version)
         await ctx.send(embed=embed)
 
-bot.run('ODA2NTY3MjI0NTgzOTEzNDg0.YBrUQw.gfbsXp8TAA3bVdpDpiLmP_EEUO8')
+bot.run(token)
